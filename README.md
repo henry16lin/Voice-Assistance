@@ -8,7 +8,7 @@ pyaudio
 gtts  
 pygame  
 googletrans  
-wikipedia
+wikipedia  
 jieba  
 gensim  
   
